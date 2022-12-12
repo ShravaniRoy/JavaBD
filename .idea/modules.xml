@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingMain/ExceptionHandlingMain.iml" filepath="$PROJECT_DIR$/ExceptionHandlingMain/ExceptionHandlingMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandlingExamples/FileHandlingExamples.iml" filepath="$PROJECT_DIR$/FileHandlingExamples/FileHandlingExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListExample/ListExample.iml" filepath="$PROJECT_DIR$/ListExample/ListExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsExamples/ThreadsExamples.iml" filepath="$PROJECT_DIR$/ThreadsExamples/ThreadsExamples.iml" />
     </modules>
   </component>
 </project>
